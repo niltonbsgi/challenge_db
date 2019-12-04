@@ -5,6 +5,12 @@
             "always": false,
             "sometimes": false,
             "neve": true
+        },
+        {
+            "userId": 2,
+            "always": true,
+            "sometimes": false,
+            "neve": false
         }
     ],
     "days_of_the_week": [
