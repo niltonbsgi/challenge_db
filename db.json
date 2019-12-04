@@ -2,14 +2,14 @@
     "ride_in_group": [
         {
             "userId": 1,
-            "Id": 1,
+            "id": 1,
             "always": false,
             "sometimes": false,
             "neve": true
         },
         {
             "userId": 2,
-            "Id": 2,
+            "id": 2,
             "always": true,
             "sometimes": false,
             "neve": false
