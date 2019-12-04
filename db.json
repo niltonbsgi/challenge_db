@@ -23,7 +23,26 @@
             "thu": "thu",
             "fri": "fri",
             "sat": "sat"
-
+        },
+        {
+            "id": 2,
+            "sun": "sun",
+            "mon": "",
+            "tue": "",
+            "wed": "",
+            "thu": "",
+            "fri": "",
+            "sat": "sat"
+        },
+        {
+            "id": 3,
+            "sun": "",
+            "mon": "",
+            "tue": "",
+            "wed": "wed",
+            "thu": "thu",
+            "fri": "fri",
+            "sat": ""
         }
     ]
 
