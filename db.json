@@ -1,14 +1,12 @@
 {
     "ride_in_group": [
         {
-            "userId": 1,
             "id": 1,
             "always": false,
             "sometimes": false,
             "neve": true
         },
         {
-            "userId": 1,
             "id": 2,
             "always": true,
             "sometimes": false,
@@ -17,7 +15,7 @@
     ],
     "days_of_the_week": [
         {
-            "userId": 1,
+            "id": 1,
             "sun": "sun",
             "mon": "mon",
             "tue": "tue",
